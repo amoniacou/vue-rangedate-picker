@@ -132,7 +132,7 @@
   cursor: pointer;
 }
 
-.close{
+.close {
   float: right;
   padding: 0 10px;
   margin-top: -35px;
@@ -207,8 +207,9 @@
   background: #eee;
   color: #000;
 }
-li.calendar_days--disabled{
-   pointer-events: none;
+
+li.calendar_days--disabled {
+  pointer-events: none;
 }
 
 li.calendar_days_selected {
